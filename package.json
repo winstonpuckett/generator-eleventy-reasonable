@@ -1,11 +1,8 @@
 {
   "name": "generator-eleventy-reasonable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "11ty with minification and good defaults",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "generators/app/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/winstonpuckett/generator-eleventy-reasonable.git"
@@ -16,7 +13,10 @@
     "eleventy",
     "11ty"
   ],
-  "author": "Winston Puckett",
+  "author": {
+    "name": "Winston Puckett",
+    "url": "https://winstonpuckett.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/winstonpuckett/generator-eleventy-reasonable/issues"
