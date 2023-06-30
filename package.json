@@ -1,6 +1,6 @@
 {
   "name": "generator-eleventy-reasonable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "11ty with minification and good defaults",
   "main": "generators/app/index.js",
   "repository": {
