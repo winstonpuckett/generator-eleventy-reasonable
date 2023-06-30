@@ -21,12 +21,15 @@ This project allows you to run `yo eleventy-reasonable` to take the tedium out o
 
 # How do I get started?
 
-1. Install [node](https://nodejs.org/en)
-1. Install [Yeoman](https://yeoman.io/learning/index.html)
+1. Install dependencies:
+    1. [node](https://nodejs.org/en)
+    1. [Yeoman](https://yeoman.io/learning/index.html): `npm install -g yo`
+    1. This package: `npm install -g generator-eleventy-reasonable`
+1. Navigate to your preferred workspace
 1. Run `yo eleventy-reasonable`
-1. Provide the package name, author, and license
+1. Follow the prompts
 
-And you're done!
+And you're off with a new project!
 
 # Can I use this for a commercial project?
 

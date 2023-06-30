@@ -209,5 +209,12 @@ layout: layouts/default.njk
 </ul>
 `);
         }
+
+        // Output success
+        {
+            this.log("🌕 Success!")
+            this.log("- If you see a warning message, 'No change to package.json was detected...', this is safe to ignore.")
+            this.log("- Run `npm run serve` to view the project!")
+        }
     }
 };
